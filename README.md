@@ -6,3 +6,5 @@
 
 **1st Enhancement of Artifact: [ContactServiceCapstoneEnhanced1](https://github.com/hb7085/ContactService-Enhanced1/tree/main)**
 
+**2nd Enhancement of Artifact: 
+
