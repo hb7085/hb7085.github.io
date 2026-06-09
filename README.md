@@ -9,3 +9,5 @@
 **2nd Enhancement of Artifact: [ContactServiceCapstoneEhanced2](https://github.com/hb7085/ContactService-Enhanced2/tree/main)**
 
 **3rd Enhancement of Artifact: [ContactServiceCapstoneEnhanced3](https://github.com/hb7085/ContactService-Enhanced3)**
+
+**See Narratives in each Enhancement Repository**
