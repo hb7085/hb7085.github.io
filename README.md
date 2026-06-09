@@ -4,5 +4,5 @@
 
 **Original Artifact: [ContactServiceCapstoneOriginal](https://github.com/hb7085/ContactService-Original/tree/main)**\
 
-**Enhanced1 Artifact: [ContactServiceCapstoneEnhanced1](https://github.com/hb7085/ContactService-Enhanced1/tree/main)**\
+**1st Enhancement of Artifact: [ContactServiceCapstoneEnhanced1](https://github.com/hb7085/ContactService-Enhanced1/tree/main)**\
 
